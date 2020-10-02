@@ -108,22 +108,6 @@ https://github.com/SurgicalInformatics/cocin_ccp.
 
 ## Mortality table for each score
 
-
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
-
  4C mortality score <img width=50/> | Mortality (%) <img width=500/>
 ------------- | -------------
 1	| 0.3
