@@ -105,3 +105,49 @@ https://github.com/SurgicalInformatics/cocin_ccp.
 1. Apply comparison scores in derivation and validation data. 
 2. DCA: fit in derivation and predict in validation (recalibration of comparators). 
 3. DCA: fit and predict in validation data (recalibration of all).
+
+## Mortality table for each score
+
+
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 50%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+
+ 4C mortality score <img width=50/> | Mortality (%) <img width=500/>
+------------- | -------------
+1	| 0.3
+2	| 0.8
+3	| 2.3
+4	| 4.8
+5	| 7.5
+6	| 7.8
+7	| 11.7
+8	| 14.4
+9	| 19.2
+10	| 22.9
+11	| 26.9
+12	| 32.9
+13	| 40.1
+14	| 44.6
+15	| 51.6
+16	| 59.1
+17	| 66.1
+18	| 75.8
+19	| 77.4
+20	| 82.9
+21	| 87.5
+
+
+
+
