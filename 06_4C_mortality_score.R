@@ -63,7 +63,7 @@ isaric_lasso <- function(.data, age, sex, comorbid, rr, spo2, gcs, crp, bun,
         TRUE ~ NA_real_),
       
       isaric_lasso_bun = case_when(
-        !! .bun <= 7 ~ 0,
+        !! .bun < 7 ~ 0,
         !! .bun <= 14 ~ 1,
         !! .bun >  14 ~ 3,
         TRUE ~ NA_real_),
